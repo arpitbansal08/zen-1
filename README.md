@@ -26,10 +26,6 @@ Installation and Usage:
 
 Clone the Repository:
 
-Bash
-git clone https://github.com/your-username/api-data-parsing-visualization.git
-Use code with caution.
-
  Run the Application Locally:
 
 Open index.html in your web browser (or use a local server).
