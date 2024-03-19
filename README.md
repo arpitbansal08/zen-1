@@ -24,7 +24,7 @@ index.js (JavaScript code for fetching, parsing, and displaying data)
 style.css (optional CSS file for table styling)
 Installation and Usage:
 
-Clone the Repository:
+Clone the Repository
 
  Run the Application Locally:
 
